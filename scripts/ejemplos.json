@@ -1,0 +1,170 @@
+[
+  {
+    "folder": "unidad1/01-problemas-y-algoritmos",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/02-representar-la-solucion",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/03-variables-y-constantes",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/04-representacion-de-datos",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/05-operadores-aritmeticos",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/06-relaciones-y-logica",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/07-prueba-de-escritorio",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad1/08-asignacion-y-entrada",
+    "stdin": "3\n"
+  },
+  {
+    "folder": "unidad2/01-decisiones",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/02-selector-multiple",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/03-mientras-y-repetir",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/04-para-contadores-y-acumuladores",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/05-ciclos-anidados",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/06-metodos-funciones-y-void",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/07-parametros-y-alcance",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/08-clases-y-constructores",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/09-instancias-y-responsabilidades",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/10-vectores",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/11-suma-y-promedio",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/12-mayor-y-menor",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/13-intercambiar-e-invertir",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/14-ordenamiento-por-seleccion",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/15-matrices-y-recorridos",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/16-sumas-por-fila-y-columna",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/17-diagonales",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/18-intercambios-y-orden-de-filas",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/19-transpuesta-y-suma",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad2/20-producto-de-matrices",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/01-registros",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/02-arreglos-de-registros",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/03-archivos-y-formatos",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/04-escribir-y-leer-texto",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/05-importar-y-filtrar",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/06-formato-binario",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/07-contador-de-frecuencias",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/08-orden-de-crecimiento",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/09-busqueda-lineal-y-binaria",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/10-evaluacion-experimental",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/11-hileras-y-longitud",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/12-editar-y-concatenar",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/13-posicion-y-busqueda-de-texto",
+    "stdin": ""
+  },
+  {
+    "folder": "unidad3/14-proyecto-integrador",
+    "stdin": ""
+  }
+]

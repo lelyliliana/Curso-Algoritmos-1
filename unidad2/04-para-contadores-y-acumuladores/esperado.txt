@@ -1,0 +1,2 @@
+Suma: 21
+Pares: 3

@@ -1,0 +1,3 @@
+K01: 3
+Línea 4: inválida
+Línea 5: inválida

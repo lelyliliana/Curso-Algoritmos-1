@@ -1,0 +1,5 @@
+Fila 0: 12
+Fila 1: 9
+Columna 0: 3
+Columna 1: 7
+Columna 2: 11

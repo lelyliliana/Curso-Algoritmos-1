@@ -1,0 +1,4 @@
+Posición K02: 1
+Cantidad: 1
+Primero: K02
+Capacidad: 3

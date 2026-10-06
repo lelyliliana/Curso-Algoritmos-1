@@ -1,0 +1,2 @@
+Unidades vendidas (0..10):
+Disponibles: 7

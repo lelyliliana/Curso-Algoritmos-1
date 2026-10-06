@@ -1,0 +1,5 @@
+Permitido: false
+OR: true
+Rechazado: true
+De Morgan: true
+Nombre válido: false

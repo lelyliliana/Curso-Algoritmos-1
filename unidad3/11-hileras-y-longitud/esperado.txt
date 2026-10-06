@@ -1,0 +1,6 @@
+Parte: Algo
+Original: Algoritmos
+Unidades UTF-16: 3
+Puntos de código: 2
+Igual contenido: true
+Concatenación: Algo paso a paso

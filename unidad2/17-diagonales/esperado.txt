@@ -1,0 +1,3 @@
+Principal: 15
+Secundaria: 15
+Unión: 25

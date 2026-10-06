@@ -1,0 +1,7 @@
+Sin paréntesis: 14
+Con paréntesis: 20
+Entera: 3
+Decimal: 3.5
+Residuo: 1
+Cuadrado: 25
+XOR, no potencia: 7

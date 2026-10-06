@@ -1,0 +1,2 @@
+Checksum: 49950000
+Coincide con calentamiento: true

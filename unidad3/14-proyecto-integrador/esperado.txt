@@ -1,0 +1,6 @@
+Consulta K01: Sensores
+Coincidencias 'cabl': 1
+K01: Sensores / 4
+K02: Cables / 8
+Registros: 2
+Catálogo recuperado desde archivo

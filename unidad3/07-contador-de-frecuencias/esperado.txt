@@ -1,0 +1,3 @@
+Visitas: 4
+Pares: 6
+Fórmula pares: 6

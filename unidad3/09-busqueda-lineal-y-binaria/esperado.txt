@@ -1,0 +1,2 @@
+Lineal: posición 6, visitas 7
+Binaria: posición 6, visitas 3

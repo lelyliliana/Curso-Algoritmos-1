@@ -1,0 +1,4 @@
+Aula 1: 12
+Aula 2: 8
+Aula 3: 10
+Cantidad de datos: 3

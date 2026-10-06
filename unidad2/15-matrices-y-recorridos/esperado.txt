@@ -1,0 +1,7 @@
+Por filas:
+[2, 4, 6]
+[1, 3, 5]
+Por columnas:
+2 1
+4 3
+6 5

@@ -1,0 +1,4 @@
+n=10 lineal=35 pares=45
+n=20 lineal=65 pares=190
+n=40 lineal=125 pares=780
+Celdas f*c: 21

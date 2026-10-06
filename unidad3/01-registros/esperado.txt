@@ -1,0 +1,3 @@
+K01 / Kit de sensores
+Existencias: 3
+Valores iguales: true

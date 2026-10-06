@@ -1,0 +1,5 @@
+Turno: 1
+Turno: 2
+Turno: 3
+Intentos: 1
+While no entró: 5

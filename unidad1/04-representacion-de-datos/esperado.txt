@@ -1,0 +1,5 @@
+10 en binario: 1010
+Máximo int: 2147483647
+Aproximado: 0.30000000000000004
+Exacto: 0.3
+Desbordamiento detectado

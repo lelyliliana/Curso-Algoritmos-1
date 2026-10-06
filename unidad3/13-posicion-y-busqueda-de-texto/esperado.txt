@@ -1,0 +1,5 @@
+Primera posición: 0
+Cantidad: 2
+Ausente: -1
+Reemplazo: luz y luz
+Original: sol y sol

@@ -1,0 +1,2 @@
+Sala A: 3
+Sala B: 1
